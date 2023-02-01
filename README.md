@@ -386,9 +386,14 @@ Os estilos alteram os preenchimentos, lacunas, largura, altura, tamanhos de font
 Este é o código JavaScript para um documento HTML que implementa um carrossel de cartões. O código faz o seguinte:
 
 - Ele seleciona os botões "Next" e "Back" do documento HTML usando o método document.getElementById() e o método document.querySelectorAll(), respectivamente.
+
 - Ele adiciona ouvintes de eventos aos botões "Next" e "Back" para ouvir os cliques do usuário.
+
 - Quando o usuário clica no botão "Next", ele encontra o cartão selecionado no momento usando o método document.querySelector() e remove a classe "selected" dele, incrementa o índice do cartão atual e adiciona a classe "selected" ao próximo cartão.
+
 - Quando o usuário clica no botão "Voltar", ele encontra o cartão selecionado no momento usando o método document.querySelector() e remove a classe "selected" dele, em seguida, diminui o índice do cartão atual e adiciona a classe "selected" ao cartão anterior.
+
+  
 
 ```javascript
 /*
@@ -452,13 +457,15 @@ btnVoltar.addEventListener("click", function () {
 
 ```
 
+
+
+## Hospedagem: 
+
+A nossa aplicação está atualmente hospedada no GitPages, um serviço de hospedagem de páginas da web baseado em Git. Com ele, é possível publicar facilmente seus projetos e torná-los acessíveis ao público com apenas alguns cliques. Além disso, o GitPages oferece uma plataforma estável e confiável para que você possa ter certeza de que sua aplicação estará sempre disponível para seus usuários. Não perca mais tempo e experimente!
+
 ## Acesso o Link :
 
 https://edvaldoljr.github.io/Projeto-FrontEnd-Card-Pokemon/
-
-
-
-A nossa aplicação está atualmente hospedada no GitPages, um serviço de hospedagem de páginas da web baseado em Git. Com ele, é possível publicar facilmente seus projetos e torná-los acessíveis ao público com apenas alguns cliques. Além disso, o GitPages oferece uma plataforma estável e confiável para que você possa ter certeza de que sua aplicação estará sempre disponível para seus usuários. Não perca mais tempo e experimente!
 
 ![](https://github.com/edvaldoljr/Projeto-FrontEnd-Card-Pokemon/blob/main/src/img/img-projeto.gif?raw=true)
 
