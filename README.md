@@ -1,5 +1,7 @@
 # Projeto Card Pokémon
 
+![](https://github.com/edvaldoljr/Projeto-FrontEnd-Card-Pokemon/blob/main/src/img/img-projeto.gif?raw=true)
+
 Bem-vindo à nossa aplicação de visualização de Pokémon! Aqui, você pode navegar por uma lista dos seus personagens favoritos e ver suas informações detalhadas, incluindo imagens e estatísticas. Com as setas de navegação, você pode avançar e voltar para ver cada cartão de Pokémon, tornando fácil encontrar exatamente o que você está procurando. Não importa se você é fã de longa data ou está apenas começando a explorar o mundo Pokémon, nossa aplicação é a escolha perfeita para todos os fãs da série. Então, comece a explorar hoje e descubra seu próximo Pokémon favorito!
 
 ## Para desenvolver o projeto, você precisará de:
@@ -463,11 +465,9 @@ btnVoltar.addEventListener("click", function () {
 
 A nossa aplicação está atualmente hospedada no GitPages, um serviço de hospedagem de páginas da web baseado em Git. Com ele, é possível publicar facilmente seus projetos e torná-los acessíveis ao público com apenas alguns cliques. Além disso, o GitPages oferece uma plataforma estável e confiável para que você possa ter certeza de que sua aplicação estará sempre disponível para seus usuários. Não perca mais tempo e experimente!
 
-## Acesso o Link :
+## Acesso o Link e confira:
 
 https://edvaldoljr.github.io/Projeto-FrontEnd-Card-Pokemon/
-
-![](https://github.com/edvaldoljr/Projeto-FrontEnd-Card-Pokemon/blob/main/src/img/img-projeto.gif?raw=true)
 
 # ⭐️ **Deixe um Star** ⭐️
 
